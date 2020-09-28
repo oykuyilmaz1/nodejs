@@ -1,6 +1,0 @@
-{
-    "name":"Express Practice Production",
-    "mail": {
-        "host":"prod-mail-host"
-    }
-}
